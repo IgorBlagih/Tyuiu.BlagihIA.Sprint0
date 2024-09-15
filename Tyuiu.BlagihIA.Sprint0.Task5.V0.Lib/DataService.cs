@@ -21,7 +21,7 @@
         {
             if (b == 0)
             {
-                Console.WriteLine("Пееременная b = {0}, на ноль делить нельзя", b);
+                Console.WriteLine("Переменная b = {0}, на ноль делить нельзя", b);
                 return -1;
             }
             else
