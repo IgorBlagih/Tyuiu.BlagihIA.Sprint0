@@ -5,7 +5,7 @@ namespace Tyuiu.BlagihIA.Sprint0.Task5.V0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" A + B = " + DataService.Addition(3, 5));
+            Console.WriteLine(" A + B  = " + DataService.Addition(3, 5));
 
             Console.WriteLine("A - B = " + DataService.Substraction(10, 7));
 
